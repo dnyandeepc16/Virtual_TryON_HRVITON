@@ -1,4 +1,5 @@
 # Virtual_TryON_HRVITON
+![](https://github.com/dnyandeepc16/Virtual_TryON_HRVITON/blob/501b76d25746412e63c0ee3e05b9d78cfd9a4441/gif_detail.gif)
 ![](https://raw.githubusercontent.com/sangyun884/HR-VITON/main/figures/fig.jpg)
 
 > Open the Colab Notebook
